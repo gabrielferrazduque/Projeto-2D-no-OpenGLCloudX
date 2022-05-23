@@ -26,7 +26,7 @@ GLfloat x1 = 100.0f;
 GLfloat y1 = 150.0f;
 GLsizei rsize = 50;                                                    
 
-// Tamanho do incremento nas direções x e y 
+// Tamanho do incremento nas direções x e y e z
 // (número de pixels para se mover a cada
 // intervalo de tempo)
 GLfloat xstep = 1.0f;
